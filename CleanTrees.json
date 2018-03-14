@@ -1,0 +1,56 @@
+[
+ {
+   "Borough": "Bronx",
+   "Dead": 2530,
+   "Fair": 10887,
+   "Good": 66603,
+   "Poor": 3095,
+   "Stump": 2088,
+   "Total": 85203
+ },
+ {
+   "Borough": "Brooklyn",
+   "Dead": 3319,
+   "Fair": 25073,
+   "Good": 138212,
+   "Poor": 6459,
+   "Stump": 4230,
+   "Total": 177293
+ },
+ {
+   "Borough": "Manhattan",
+   "Dead": 1802,
+   "Fair": 11460,
+   "Good": 47358,
+   "Poor": 3609,
+   "Stump": 1194,
+   "Total": 65423
+ },
+ {
+   "Borough": "Queens",
+   "Dead": 4440,
+   "Fair": 34549,
+   "Good": 194008,
+   "Poor": 9417,
+   "Stump": 8137,
+   "Total": 250551
+ },
+ {
+   "Borough": "Staten Island",
+   "Dead": 1870,
+   "Fair": 14535,
+   "Good": 82669,
+   "Poor": 4238,
+   "Stump": 2005,
+   "Total": 105317
+ },
+ {
+   "Borough": "Total",
+   "Dead": 13961,
+   "Fair": 96504,
+   "Good": 528850,
+   "Poor": 26818,
+   "Stump": 17654,
+   "Total": 683787
+ }
+]
